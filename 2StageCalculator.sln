@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Stage-Reactor-Calculator", "2StageCalculator\2-Stage-Reactor-Calculator.csproj", "{0F3F23C4-EE3C-478A-96F7-3822A5FF61E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3F23C4-EE3C-478A-96F7-3822A5FF61E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3F23C4-EE3C-478A-96F7-3822A5FF61E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3F23C4-EE3C-478A-96F7-3822A5FF61E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3F23C4-EE3C-478A-96F7-3822A5FF61E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606C35B7-6A0D-4077-908D-ECE556B4E356}
+	EndGlobalSection
+EndGlobal
