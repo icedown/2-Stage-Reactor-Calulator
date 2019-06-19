@@ -135,6 +135,7 @@ namespace _2StageCalculator
 
             AddLine(nbsp(8) + "Heat Generation: " + iHeatGen, true);
             AddLine(nbsp(8) + "Cooling: " + iCooling, true);
+            AddLine(nbsp(8) + "Efficiency: " + efficiency + "%", true);
             AddLine(nbsp(8) + "Cooling Efficiency: " + (msrCE * 100) + "%", true);
             if (bPreheatedWater)
             {
