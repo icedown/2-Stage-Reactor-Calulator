@@ -7,6 +7,11 @@ You input the data from either the mod or NC Reactor Planner and it will calcula
 
 Put in the reactor heat generation, cooling, efficiency, coolants and number of heaters for each, and finally the type of heat exchanger tubes and it will output the needed information
 
+## TODO List
+* Ability to save configurations to file and load them again
+* Ability to save a reactor setup and load it
+* Ability to export/print the reactor report window
+
 
 ## Authors
 
